@@ -1,2 +1,2 @@
 # JavaStarter
-Java beginners
+Programm prints out 3 tomorrow's tasks.
